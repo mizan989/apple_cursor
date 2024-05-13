@@ -13,8 +13,8 @@
 <feOffset dx="-3.84" dy="8.96"/>
 <feGaussianBlur stdDeviation="9.6"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_40_341"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_40_341" result="shape"/>
+<feBlend mode="small" in2="BackgroundImageFix" result="effect1_dropShadow_40_341"/>
+<feBlend mode="small" in="SourceGraphic" in2="effect1_dropShadow_40_341" result="shape"/>
 </filter>
 </defs>
 </svg>
